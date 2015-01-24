@@ -1,0 +1,1 @@
+A simple node application that returns a fixed json string with unit tests to test the response.
